@@ -221,7 +221,7 @@ Instead of one giant prompt, LangGraph allows:
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/job-search-agent.git
+git clone https://github.com/ileena/job-search-agent.git
 cd job-search-agent
 pip install -r requirements.txt
 ```
